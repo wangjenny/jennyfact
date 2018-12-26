@@ -11,6 +11,10 @@
 		$wrapper = $('#page-wrapper'),
 		$banner = $('#banner'),
 		$header = $('#header');
+//		$fact = $.get( "/assets/js/app.py", function(data) {
+//            alert( "success" + data);
+//            console.log("Fact! " + data)
+//        })
 
 	// Breakpoints.
 		breakpoints({
